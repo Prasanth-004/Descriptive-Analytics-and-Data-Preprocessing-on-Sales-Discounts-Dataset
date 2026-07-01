@@ -1,8 +1,8 @@
 # Descriptive-Analytics-and-Data-Preprocessing-on-Sales-Discounts-Dataset
 
-## 📌 Project Overview
+## 📌 Task Overview
 
-This project focuses on performing **Descriptive Analytics** and **Data Preprocessing** on a Sales & Discounts dataset. The main objective is to analyze the dataset using statistical measures, visualize data distributions, identify outliers, and derive meaningful insights that can support further exploratory data analysis and machine learning tasks.
+This Task focuses on performing **Descriptive Analytics** and **Data Preprocessing** on a Sales & Discounts dataset. The main objective is to analyze the dataset using statistical measures, visualize data distributions, identify outliers, and derive meaningful insights that can support further exploratory data analysis and machine learning tasks.
 
 ---
 
@@ -109,7 +109,7 @@ Bar charts were generated for categorical columns to:
 
 ## 📌 Conclusion
 
-This project demonstrates how descriptive analytics and visualization techniques can be used to explore and understand a dataset effectively. The insights obtained can be utilized for data-driven decision-making and serve as a foundation for advanced analytics and machine learning applications.
+This Task demonstrates how descriptive analytics and visualization techniques can be used to explore and understand a dataset effectively. The insights obtained can be utilized for data-driven decision-making and serve as a foundation for advanced analytics and machine learning applications.
 
 ---
 
